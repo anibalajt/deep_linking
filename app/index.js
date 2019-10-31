@@ -13,7 +13,6 @@ const fetchUrl = async (setData, setLoading) => {
 }
 
 const Home = ({ navigation }) => {
-  console.log('Home :', navigation.state);
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 

@@ -10,7 +10,6 @@ const fetchUrl = async (id, setData, setLoading) => {
   setLoading(false);
 }
 const Character = ({ navigation }) => {
-  console.log('Character :', navigation.state);
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   //get ID from URI
