@@ -2,7 +2,7 @@
 
 This app demonstrates dynamic deep linking using React Native.
 
-![](http://www.giphy.com/gifs/dalOu2aCFdu7Nx9H2R)
+![](https://miro.medium.com/max/2556/1*iMLh1ilyMPh5pymINZ1DmA.gif)
 
 ## To test this out
 
